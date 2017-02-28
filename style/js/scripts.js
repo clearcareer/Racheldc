@@ -521,7 +521,7 @@ $(document).ready(function() {
     var instagramFeed = new Instafeed({
         get: 'user',
         limit: 10,
-        userId: 1215763826,
+        userId: 244893282,
         accessToken: '1215763826.f1627ea.dad6ca96bd7642519b573d52c3ef467f',
         resolution: 'low_resolution',
         template: '<div class="item"><figure class="icon-overlay"><a href="{{link}}"><img src="{{image}}" /></a></figure></div>',
